@@ -4,6 +4,8 @@
 
 让安全员不仅看到告警，还能查看现场图像、定位证据和规范出处，并跟进整改与复验。
 
+[下载 Windows 完整安装包 v1.5.3（x64）](https://github.com/Shrek2356/SiteSafe-Sentinel/releases/download/v1.5.3/SiteSafe-Sentinel_Setup_v1.5.3_x64.exe) · [发布说明与 SHA-256](https://github.com/Shrek2356/SiteSafe-Sentinel/releases/tag/v1.5.3) · [原项目仓库](https://github.com/Shrek2356/SiteSafe-Sentinel)
+
 ![深蓝工业主题下的三维工地工作台](./assets/workbench-industrial-20261111.png)
 
 ## 从巡检到整改
@@ -37,6 +39,8 @@
 
 ## 安装与授权
 
-本仓库仅公开项目介绍和界面截图，不包含程序源码、模型权重或安装文件。获授权的成员请在[项目发布页](https://github.com/Shrek2356/SiteSafe-Sentinel/releases)下载 Windows 安装包；如无访问权限，请联系项目团队。
+本仓库用于展示项目。完整 Windows 安装包（约 490 MiB）由原项目仓库的 Releases 提供。安装后可直接查看三维工地、双主题和八个预置案例；真实检测需另行配置模型权重与推理环境。升级前请退出旧版并备份工作空间。安装器未进行团队代码签名，请核对发布页的 SHA-256。
 
-© 筑安智巡项目作者及贡献者。公开展示不构成对软件、截图或第三方素材的使用授权。
+原项目仓库公开可见，但软件仍按原有授权条款提供。安装包不含模型权重；可下载不等于获准再分发或商用。
+
+© 筑安智巡项目作者及贡献者。具体使用范围以安装包内的授权及第三方声明为准。
